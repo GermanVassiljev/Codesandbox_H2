@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+table {
+  border: 2pt solid black;
+}
+td {
+  border-bottom: 2pt solid black;
+  border-right: 2pt solid black;
+}
